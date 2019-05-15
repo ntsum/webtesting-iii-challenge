@@ -28,12 +28,12 @@ The requirements are listed under the _Minimum Viable Product_ section below.
 
 Follow these steps to setup your git _fork_ and _branch_.
 
-- [ ] Fork this repository.
-- [ ] Use GitHub's website to add your project manager as collaborator on **your fork**.
-- [ ] **Clone your forked version** of the repository (**Not Lambda's**!).
-- [ ] Create a new branch: `git checkout -b <firstName-lastName>`.
-- [ ] Commit changes to your `<firstName-lastName>` branch.
-- [ ] Push often to your branch: `git push origin <firstName-lastName>`.
+- [x] Fork this repository.
+- [x] Use GitHub's website to add your project manager as collaborator on **your fork**.
+- [x] **Clone your forked version** of the repository (**Not Lambda's**!).
+- [x] Create a new branch: `git checkout -b <firstName-lastName>`.
+- [x] Commit changes to your `<firstName-lastName>` branch.
+- [x] Push often to your branch: `git push origin <firstName-lastName>`.
 
 Follow these steps for completing your project.
 
@@ -73,8 +73,3 @@ The expected/assumed behavior of the application is listed below.
 - the closed toggle button is disabled if the gate is closed
 - the locked toggle button is disabled if the gate is open
 
-## Stretch Problem
-
-This section is **optional** and not counted towards MVP. Start working on it after you're done with the main assignment.
-
-- add `Redux` and [read this example in the docs](https://testing-library.com/docs/example-react-redux) to learn how to write tests for it.
